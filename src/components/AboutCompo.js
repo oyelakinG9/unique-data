@@ -58,19 +58,19 @@ const AboutComponent = () => (
           <li>
             <Badge bg="warning">
               <FontAwesomeIcon icon={faGithub} className="mx-1 text-dark" />
-              <a href="https://github.com/Hamzaoutdoors" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">Github</a>
+              <a href="https://github.com/Oyelaking9" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">Github</a>
             </Badge>
           </li>
           <li>
             <Badge bg="warning">
               <FontAwesomeIcon icon={faFacebook} className="mx-1 text-primary" />
-              <a href="https://web.facebook.com/?_rdc=1&_rdr" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">Facebook</a>
+              <a href="https://web.facebook.com/ooyelakin/" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">Facebook</a>
             </Badge>
           </li>
           <li>
             <Badge bg="warning">
               <FontAwesomeIcon icon={faLinkedin} className="mx-1 text-info" />
-              <a href="https://www.linkedin.com/in/hamzaellaouzi/?locale=en_US" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/oyelaking1" target="_blank" rel="noreferrer" className="text-decoration-none text-dark">LinkedIn</a>
             </Badge>
           </li>
         </ul>

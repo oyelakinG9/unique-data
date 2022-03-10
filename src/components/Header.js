@@ -1,18 +1,26 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types';
 
-const Header = () => (
-  <header className="header">
-    <div className="fantastic-logo" />
-    <Link to="/" style={{ textDecoration: 'none' }}><h1 className="logo">Covid-19&apos; Update</h1></Link>
-    <nav className="nav">
-      <ul className="navBar">
-        <li className="nav-link books">
-          <Link to="update" style={{ textDecoration: 'none' }}>Unique data</Link>
-        </li>
-      </ul>
-    </nav>
-  </header>
+const Header = ({
+  title, total, carteName,
+}) => (
+  <div className="page-header">
+    <div className="header-image">
+      <img src={`/cartes/${carteName}.svg`} alt="cart" />
+    </div>
+    <div className="header-body">
+      <h2>{title}</h2>
+      <p>
+        {total}
+      </p>
+    </div>
+  </div>
 );
 
 export default Header;
+
+Header.propTypes = {
+  title: PropTypes.string.isRequired,
+  total: PropTypes.string.isRequired,
+  carteName: PropTypes.string.isRequired,
+};
