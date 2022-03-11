@@ -3,7 +3,7 @@
 # COVID-19 UNIQUE DATA
 > Unique data is a react project that provides COVID-19 data for each country. It is a SPA website provides users with an immediate update on COVID-19 data. It showcases my work at the end of the react milestone.
 
-![Screenshot (96)](https://user-images.githubusercontent.com/61976324/155153453-12b1a72f-0fec-4f2a-963d-ee0321bab121.png)
+![Screenshot from 2022-03-10 23-33-55](https://user-images.githubusercontent.com/61976324/157888295-b004c89a-ecbe-4a12-85e9-12647114152e.png)
 
 ## Built With
 - HTML & CSS & JavaScript
