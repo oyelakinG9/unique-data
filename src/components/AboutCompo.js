@@ -44,10 +44,8 @@ const AboutComponent = () => (
       <div>
         <h1 className="my-4 shadow">About Developer</h1>
         <p>
-          Hamza Ellaouzi Full-Stack Developer,
-          Geoinformatics Engineer and Lifelong Learner. Based in Tangier, Morocco
-          Building stuff with new technlogies become my daily Routine
-
+          Oyelakin Ridwan Full-Stack Developer,
+          Ruby and Ruby on Rail, React and React-Eedux , Javascript
         </p>
         <p>
           <FontAwesomeIcon icon={faLink} className="mx-2" />
