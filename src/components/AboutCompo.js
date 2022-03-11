@@ -45,7 +45,7 @@ const AboutComponent = () => (
         <h1 className="my-4 shadow">About Developer</h1>
         <p>
           Oyelakin Ridwan Full-Stack Developer,
-          Ruby and Ruby on Rail, React and React-Eedux , Javascript
+          Ruby and Ruby on Rail, React and React-Eedux , Javascript.
         </p>
         <p>
           <FontAwesomeIcon icon={faLink} className="mx-2" />
