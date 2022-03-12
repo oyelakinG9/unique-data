@@ -1,4 +1,3 @@
-/* eslint-disable consistent-return */
 import axios from 'axios';
 
 export const transferDate = (date) => date.toISOString().split('T')[0];
@@ -41,6 +40,7 @@ const fetchCountry = async () => {
   }
 
   todayDate = yesterDate;
+  return true;
 };
 
 export default fetchCountry;
