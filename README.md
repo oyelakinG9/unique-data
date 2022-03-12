@@ -46,10 +46,6 @@ Nelson Sakwa on Behance for original design
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)[Not available]
-
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 ## Show your support
