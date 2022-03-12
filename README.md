@@ -7,7 +7,7 @@
 
 Nelson Sakwa on Behance for original design
 
-[Screenshot from 2022-03-10 23-33-55](https://user-images.githubusercontent.com/61976324/157888295-b004c89a-ecbe-4a12-85e9-12647114152e.png)
+![Screenshot from 2022-03-10 23-33-55](https://user-images.githubusercontent.com/61976324/157888295-b004c89a-ecbe-4a12-85e9-12647114152e.png)
 
 [Loom Video](https://www.loom.com/share/fe7baa0a356b498f9c5c773a14efa23a)
 
